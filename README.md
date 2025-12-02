@@ -6,7 +6,7 @@ DarkVoice is a professional audio-steganography tool designed to hide secret tex
 ----
 ### Convert Any Audio to Proper WAV (PCM 16-bit)
 ```
- ffmpeg -i input.wav -acodec pcm_s16le -ar 44100 fixed.wav
+ ffmpeg -i YOUR_AUDIO.wav -acodec pcm_s16le -ar 44100 fixed.wav
  ```
 ---
 
