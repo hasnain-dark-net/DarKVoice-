@@ -4,7 +4,7 @@
 
 DarkVoice is a professional audio-steganography tool designed to hide secret text messages inside WAV audio files using LSB (Least Significant Bit) encoding.
 ----
-### Convert Any Audio to Proper WAV (PCM 16-bit)**
+### Convert Any Audio to Proper WAV (PCM 16-bit)
 ```
  ffmpeg -i input.wav -acodec pcm_s16le -ar 44100 fixed.wav
  ```
