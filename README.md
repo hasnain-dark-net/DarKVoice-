@@ -1,6 +1,6 @@
 # 🔥 DarkVoice – Advanced Audio Steganography Tool  
 #### Created by: **HasnainDarkNet**
-              <img width="610" height="148" alt="Capture" src="https://github.com/user-attachments/assets/8fd4588e-f260-43f1-ae2c-4a56c8c72421" />
+<img width="610" height="148" alt="Capture" src="https://github.com/user-attachments/assets/8fd4588e-f260-43f1-ae2c-4a56c8c72421" />
 
 DarkVoice is a professional audio-steganography tool designed to hide secret text messages inside WAV audio files using LSB (Least Significant Bit) encoding.
 ----
